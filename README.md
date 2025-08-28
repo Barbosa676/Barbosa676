@@ -1,11 +1,9 @@
-##Olá, eu sou o Gabriel Barbosa
+Olá, eu sou o Gabriel Barbosa.
 
 
 - 🌱 Buscando ser um desenvolvedor full stack
-- 👯 Estudando POO JAVA
-- 😄 Pronouns: ele/dele
+- 💻 Estudando POO JAVA
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
