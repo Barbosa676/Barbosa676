@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=****&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa676&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="420" />
 </p>
 
 
@@ -50,7 +50,7 @@
   <a href="gabrieldesousabarbosa40@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielmasterson/">
+  <a href="https://www.linkedin.com/in/Gabriel Barbosa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@Barbosa676">
