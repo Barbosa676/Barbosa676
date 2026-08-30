@@ -8,8 +8,8 @@
   <a href="https://github.com/Barbosa676">
     <img src="https://img.shields.io/badge/GitHub-@Barbosa676-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:gabrieldesousabarbosa40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gabrieldesousabarbosa40@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:barbosadev078@gmail.com">
+    <img src="https://img.shields.io/badge/Email-barbosadev078@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -25,7 +28,7 @@
 ## Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia, soluções práticas e interfaces modernas.  
-Atualmente estou focado em Python, automação e aplicações desktop que resolvem problemas reais.
+Atualmente estou focado em Python, automação, gestão de dados e aplicações desktop que resolvem problemas reais.
 
 ---
 
@@ -50,15 +53,17 @@ Atualmente estou focado em Python, automação e aplicações desktop que resolv
 - Python
 - Tkinter
 - SQLite
+- SQL
 - Git / GitHub
 - Linux
+- VS Code
 
 ---
 
 ## Contato
 
 - GitHub: [@Barbosa676](https://github.com/Barbosa676)
-- Email: [gabrieldesousabarbosa40@gmail.com](mailto:gabrieldesousabarbosa40@gmail.com)
+- Email: [barbosadev078@gmail.com](mailto:barbosadev078@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Barbosa676&label=Profile+views&color=7C3AED&style=flat-square" alt="Profile views" />
