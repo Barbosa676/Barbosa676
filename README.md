@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Gabriel Barbosa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Criador+de+projetos+pr%C3%A1ticos;Sempre+aprendendo+coisas+novas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&lines=Desenvolvedor;Criador+de+projetos+pr%C3%A1ticos;Sempre+aprendendo+coisas+novas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,8 +42,8 @@ Atualmente estou focado em Python, automação, gestão de dados e aplicações 
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barbosa676&show_icons=true&theme=radical&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&icon_color=7C3AED&border_color=7C3AED" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbosa676&theme=radical&background=0d1117&border=7C3AED&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barbosa676&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF7A00&text_color=ffffff&icon_color=FF7A00&border_color=FF7A00" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbosa676&theme=radical&background=0d1117&border=FF7A00&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
 </p>
 
 ---
@@ -66,5 +66,5 @@ Atualmente estou focado em Python, automação, gestão de dados e aplicações 
 - Email: [barbosadev078@gmail.com](mailto:barbosadev078@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barbosa676&label=Profile+views&color=7C3AED&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Barbosa676&label=Profile+views&color=FF7A00&style=flat-square" alt="Profile views" />
 </p>
