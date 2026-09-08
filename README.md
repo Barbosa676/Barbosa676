@@ -41,11 +41,11 @@ Atualmente estou focado em Python, automação, gestão de dados e aplicações 
 
 ## Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barbosa676&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF7A00&text_color=ffffff&icon_color=FF7A00&border_color=FF7A00" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbosa676&theme=radical&background=0d1117&border=FF7A00&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakLabel=ffffff" alt="GitHub Streak" height="180" />
-</p>
+## STATUS:
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barbosa676&theme=github_dark" width="100%">
+</p>
 ---
 
 ## Stack
