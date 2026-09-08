@@ -45,7 +45,7 @@ Atualmente estou focado em Python, automação, gestão de dados e aplicações 
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBarbosa676&theme=gruvbox"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barbosa676&theme=gruvbox"
     alt="Status do perfil GitHub"
     width="100%"
   />
