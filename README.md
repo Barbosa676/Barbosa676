@@ -52,17 +52,6 @@ Atualmente estou focado em Python, automação, gestão de dados e aplicações 
 </p>
 ---
 
-## Stack
-
-- Python
-- Tkinter
-- SQLite
-- SQL
-- Git / GitHub
-- Linux
-- VS Code
-
----
 
 ## Contato
 
